@@ -1,0 +1,10 @@
+{
+  "name": "@istjustaname/polymer-chaturbate-info",
+  "version": "1.0.0",
+  "dependencies": {
+    "@polymer/polymer": "latest"
+  },
+  "engines": {
+    "yarn": ">= 1.0.0"
+  }
+}

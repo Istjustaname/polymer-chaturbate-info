@@ -45,6 +45,4 @@ class ChaturbateInfo extends PolymerElement {
   }
 }
 
-if (!customElements.get('chaturbate-info')) {
-    customElements.define('chaturbate-info', ChaturbateInfo);
-}
+customElements.define('chaturbate-info', ChaturbateInfo);

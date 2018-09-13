@@ -5,6 +5,6 @@
     "@polymer/polymer": "latest"
   },
   "engines": {
-    "yarn": ">= 1.0.0"
+    "npm": ">= 6.0.0"
   }
 }

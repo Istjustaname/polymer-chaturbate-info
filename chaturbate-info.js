@@ -1,6 +1,5 @@
 import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
 
-
 class ChaturbateInfo extends PolymerElement {
   static get template() {
     return html `<style>
@@ -45,4 +44,4 @@ class ChaturbateInfo extends PolymerElement {
   }
 }
 
-customElements.define('chaturbate-info', ChaturbateInfo);
+window.customElements.define('chaturbate-info', ChaturbateInfo);
